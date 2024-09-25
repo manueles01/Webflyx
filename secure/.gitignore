@@ -1,0 +1,6 @@
+# Ignore the entire secure directory
+secure/
+
+# Ignore the guilty_pleasures.md file
+guilty_pleasures.md
+
